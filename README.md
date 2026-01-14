@@ -41,10 +41,3 @@ Currently the comment screen keeps refreshing/reloading every micro second and t
 
 Helping me fix this would be appreciated.
 
-## Socials/feedbacks
-
-It would be really great to know your feedback and experience please send you review and feedbacks on my socials ->
-1. twitter.com/yaiamharsh
-2. instagram.com/yaiamharsh
-3. linkedin.com/in/shuklaharsh3009
-4. github.com/shuklaharsh3009
