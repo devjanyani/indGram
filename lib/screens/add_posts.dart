@@ -207,3 +207,4 @@ class _AddPostScreenState extends State<AddPostScreen> {
           );
   }
 }
+
